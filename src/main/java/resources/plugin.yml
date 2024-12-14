@@ -1,1 +1,6 @@
-
+name: NetherRoofLimit
+version: 1.0
+main: com.alex.netherrooflimit.NetherRoofLimit
+api-version: 1.20
+description: Restricts movement on the Nether roof to a 64-block radius.
+author: 4U6V
